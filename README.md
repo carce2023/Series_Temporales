@@ -1,2 +1,2 @@
 # Series_Temporales
-Predicción de calidad del aire usando series temporales en Python
+Predicción de calidad del aire usando series temporales con Python.
